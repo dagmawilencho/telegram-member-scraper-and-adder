@@ -1,13 +1,14 @@
 <p align="center">
-  <img src="https://1.bp.blogspot.com/-bMerZKbriRY/X0YzqiPFCsI/AAAAAAAAAP8/1GHlVlmMGcQsHu8cxeK1o5WkTe2VeXlDgCLcBGAsYHQ/s1652/Picture_20200826_152605754.jpg" width="470" height="150">
+  <img src="https://dagu
+ /-bMerZKbriRY/X0YzqiPFCsI/AAAAAAAAAP8/1GHlVlmMGcQsHu8cxeK1o5WkTe2VeXlDgCLcBGAsYHQ/s1652/Picture_20200826_152605754.jpg" width="470" height="150">
 </p>
 
 <p align="center"><img src="https://img.shields.io/badge/Version-1.01-brightgreen"></p>
 <p align="center">
-  <a href="https://github.com/termuxprofessor">
+  <a href="github.com/Dagmawilencho/telegram-member-scraper-and-adder">
     <img src="https://img.shields.io/github/followers/th3unkn0n?label=Follow&style=social">
   </a>
-  <a href="https://github.com/termuxprofessor/Telegram-Scraper-Adder">
+  <a href="https://github.com/Dagmawilencho/telegram-member-scraper-and-adder">
     <img src="https://img.shields.io/github/stars/th3unkn0n/TeleGram-Group-Scraper?style=social">
   </a>
 </p>
@@ -36,7 +37,7 @@
 
 `$ git clone https://github.com/Dagmawilencho/telegram-member-scraper-and-adder`
 
-`$ cd Telegram-Scraper-Adder`
+`$ cd telegram-member-scraper-and-adder
 
 * Install requierments & Setup Configuration File. ( apiID, apiHash )
 
