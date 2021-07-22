@@ -44,5 +44,4 @@ print(gr+"[+] setup complete !")
 print(gr+"[+] now you can run any tool !")
 print(gr+"[+] make sure to read docs 4 installation & api setup")
 print(gr+"[+] https://github.com/termuxprofessor/TeleGram-Scraper-Adder/blob/master/README.md")
-E.md")
-DME.md")
+
