@@ -128,5 +128,3 @@ for user in users:
         traceback.print_exc()
         print("Unexpected Error")
         continue
-ntinue
-continue
