@@ -53,6 +53,8 @@
 * coming soon!
 ---
 
+copy right https://github.com/termuxprofessor/Telegram-Scraper-Adder
+
 <p align="center">
   Follow Me On
 </p>
